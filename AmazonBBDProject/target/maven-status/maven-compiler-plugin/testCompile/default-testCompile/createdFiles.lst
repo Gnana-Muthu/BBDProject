@@ -1,0 +1,6 @@
+com\mindtree\Utilities\PropertyFile.class
+com\mindtree\Uistore\LoginpageUI.class
+com\mindtree\Reusable\Reusablecomponents.class
+com\mindtree\Runner\Runner.class
+com\mindtree\Pageobjects\Loginpage.class
+com\mindtree\StepDefinitions\LoginpagestepDefinition.class
